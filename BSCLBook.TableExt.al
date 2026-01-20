@@ -11,4 +11,6 @@ tableextension 50200 "BSCL Book" extends "BSB Book"
             ToolTip = 'Specifies the value of the No. of Customer Likes field.', Comment = '%';
         }
     }
+
+    //TODO Bei der Löschung des Buchs weitermachen!!!!!!!
 }
